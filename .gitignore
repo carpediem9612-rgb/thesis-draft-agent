@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pdf
+node_modules/
+.pnpm-store/
+work/
+private/
+data/
+품질검증/실행/
+품질검증/*결과.json
+품질검증/최종_게이트검증.json
